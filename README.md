@@ -1,4 +1,4 @@
-To use the bot clone the repo with `git clone https://github.com/BigPim/musicbot`
+To use the bot clone the repo with `git clone https://github.com/BigPim/MusicBot`
 
 
 Open into the Folder and run `npm i` or `npm install`
