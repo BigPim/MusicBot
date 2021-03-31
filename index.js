@@ -7,7 +7,7 @@ const fs = require('fs')
 const { YTSearcher } = require('ytsearcher');
 
 const searcher = new YTSearcher({
-    key: "AIzaSyADYh4Xm2pFmEXLzpFRxF946U7gIBsVwZU",
+    key: "API KEY HERE",
     revealed: true
 });
 
